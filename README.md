@@ -28,7 +28,7 @@ Docker for MAC:
 - Install docker [Link](https://docs.docker.com/docker-for-mac/install/) 
 
 Docker for Windows:
-- Install docker for Windows [Link]([https://hub.docker.com/editions/community/docker-ce-desktop-windows/]) 
+- Install docker for Windows [Link](https://docs.docker.com/docker-for-windows/install/) 
 
 After you successfully downloaded docker click on the whale icon, open Preferences, 
 Resources, File Sharing. With + button add project folder to Docker Resource, and press 
